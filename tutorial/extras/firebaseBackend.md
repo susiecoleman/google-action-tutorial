@@ -6,17 +6,21 @@ The src directory has a bare bones firebase function set up to handle POST reque
 
 ## Things to be done
 
+There is a bare bones firebase function project in the firebaseFulfillment [directory](../../firebaseFulfillment). Navigate into this folder from the command line.
+
 Install [firebase-tools](https://github.com/firebase/firebase-tools) `npm install -g firebase-tools`. This is for deploying the firebase function.
 
 Login to firebase tools from the command line using `firebase login`
 
 Use `firebase list` to see the name of your projects.
 
-Use `firebase use <project-id>` to set the ID to the ID of the project you created in Step 1
+Use `firebase use <project-id>` to set the ID to the ID of the project you created in Step 1 of [Part 1](../part1.md).
 
-The next step is to deploy your function to the Cloud. Make sure that you are in the `functions` directory. Then run `yarn deploy`. Once this step is completed the URL of your function will be shown. Your function can be viewed by going to the [Firebase console](https://console.firebase.google.com)
+The next step is to deploy your function to the Cloud. Make sure that you are in the `functions` directory.
 
-Copy the URL and go back to the Dialogflow Console.
+Run `yarn install`. Then run `yarn deploy`. Once this step is completed the URL of your function will be shown. Your function can be viewed by going to the [Firebase console](https://console.firebase.google.com)
+
+Copy the URL and go back to the Dialogflow [Console](https://console.dialogflow.com).
 
 Go to 'Fulfillment'
 
