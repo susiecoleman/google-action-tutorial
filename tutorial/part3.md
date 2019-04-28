@@ -40,3 +40,19 @@ conv.ask("<speak>Welcome to the AI fortune teller.</speak>");
 ```
 
 Use the Simple Response object if you want the text displayed to be different from the text spoken. You also need to use it if the only thing your SSML will do is play an audio file.
+
+## Option 4: Storing User Data between interactions
+
+You might want to go beyond randomly generating a fortune and actually using the answers the user give you. If you ask the user multiple questions you'll need to [store data](https://developers.google.com/actions/assistant/save-data)
+
+## Option 5: Something else
+
+There are a lot of docs on Google Assistant:
+
+- [Starting right from the beginning](https://developers.google.com/actions/extending-the-assistant)
+- [Extending the conversation](https://developers.google.com/actions/assistant/basics)
+- [Docs for the node module used in the backend](https://www.npmjs.com/package/actions-on-google)
+- [More tutorials](https://developers.google.com/actions/codelabs/)
+- [Top level docs](https://developers.google.com/actions/)
+- [What Actions already exist](https://assistant.google.com/explore)
+- [Releasing an Action](https://developers.google.com/actions/console/publishing)
