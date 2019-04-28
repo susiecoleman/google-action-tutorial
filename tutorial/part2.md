@@ -38,6 +38,8 @@ In the [Dialogflow console](https://console.dialogflow.com) go to 'Fulfillment'
 
 Copy and paste the code from [here](../dialogflowFulfillment/inlineEditorPart2.js) into the inline editor.
 
-## Step 4: Test it
+## Step 3: Test it
 
 Go Back to the Google Actions [Console](https://console.actions.google.com) and go to `Test > Simulator`. This allows you to try out the Action enter 'Talk to my Test App' to get started.
+
+# [Part 3](./part3.md)

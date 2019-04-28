@@ -60,3 +60,5 @@ Copy and paste the code from [here](../dialogflowFulfillment/inlineEditorPart1.j
 ## Step 4: Test it
 
 Go Back to the Google Actions [Console](https://console.actions.google.com) and go to `Test > Simulator`. This allows you to try out the Action enter 'Talk to my Test App' to get started.
+
+# [Part 2](./part2.md)
