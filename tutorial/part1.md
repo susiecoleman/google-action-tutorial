@@ -4,7 +4,7 @@
 
 There are 3 parts to the Google Action infrastructure that need setting up
 
-![](GoogleAssistantFlow.jpg)
+![](./img/GoogleAssistantFlow.jpg)
 
 ## Step 1: Create a Google Action Project (Google Assistant)
 
@@ -55,7 +55,7 @@ If the backend is very simple you can use Dialogflow's built in code editor.
 
 In the [Dialogflow console](https://console.dialogflow.com) go to 'Fulfillment' and enable the 'Inline Editor'.
 
-Copy and paste the code from [here](../dialogflowFulfillment/inlineEditor.js) into the inline editor.
+Copy and paste the code from [here](../dialogflowFulfillment/inlineEditorPart1.js) into the inline editor.
 
 ## Step 4: Test it
 
