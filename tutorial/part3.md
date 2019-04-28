@@ -56,3 +56,9 @@ There are a lot of docs on Google Assistant:
 - [Top level docs](https://developers.google.com/actions/)
 - [What Actions already exist](https://assistant.google.com/explore)
 - [Releasing an Action](https://developers.google.com/actions/console/publishing)
+
+## Example of other Actions
+
+- [Year in Review](https://github.com/guardian/year-in-review)
+- [Guardian Briefing](https://github.com/guardian/guardian-briefing)
+- [Where in the World](https://github.com/susiecoleman/where-in-the-world)
